@@ -1,0 +1,6 @@
+#ignore everything
+*
+#but yaml files
+!*.yaml
+#and but .gitignore
+!.gitignore
